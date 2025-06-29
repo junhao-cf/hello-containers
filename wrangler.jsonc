@@ -10,7 +10,7 @@
   "containers": [
     {
       "class_name": "MyContainer",
-      "image": "./Dockerfile",
+      "image": "registry.cloudflare.com/d7b189aa82ad8a6cbc8e2e6ed5579492/wiki:junhao",
       "max_instances": 10,
       "name": "hello-containers"
     }
